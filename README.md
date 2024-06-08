@@ -15,12 +15,7 @@ I can use...
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo='C++'&logoColor=white"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Java-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>
-
-<h3>🌧️only a bit🌧️</h3>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-rust-333333?style=for-the-badge&logo=rust&logoColor=white"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
 
 I am willing to study...
 ================
